@@ -9,10 +9,15 @@ Visualization of sorting algorithms is an effective way to understand their work
 The sorting algorithms covered in this visualizer include:
 
 Selection Sort
+
 Insertion Sort
+
 Bubble Sort
+
 Merge Sort
+
 Quick Sort
+
 Heap Sort
 
 The list size is fixed at 130 elements, and the algorithms sort the elements in ascending order. The visualized sorting time may not directly reflect the actual time complexity of the algorithms, as certain algorithms have been intentionally delayed for better visualization.
