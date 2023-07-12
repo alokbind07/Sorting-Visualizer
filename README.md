@@ -8,17 +8,17 @@ Visualization of sorting algorithms is an effective way to understand their work
 
 The sorting algorithms covered in this visualizer include:
 
-Selection Sort
+#### Selection Sort
 
-Insertion Sort
+#### Insertion Sort
 
-Bubble Sort
+#### Bubble Sort
 
-Merge Sort
+#### Merge Sort
 
-Quick Sort
+#### Quick Sort
 
-Heap Sort
+#### Heap Sort
 
 The list size is fixed at 130 elements, and the algorithms sort the elements in ascending order. The visualized sorting time may not directly reflect the actual time complexity of the algorithms, as certain algorithms have been intentionally delayed for better visualization.
 
@@ -31,12 +31,19 @@ The visualizer displays a window showing a bar chart representing the elements t
 To interact with the visualizer, use the following controls:
 
 Press 0 to generate a new randomized list.
+
 Press 1 to start the Selection Sort algorithm.
+
 Press 2 to start the Insertion Sort algorithm.
+
 Press 3 to start the Bubble Sort algorithm.
+
 Press 4 to start the Merge Sort algorithm.
+
 Press 5 to start the Quick Sort algorithm.
+
 Press 6 to start the Heap Sort algorithm.
+
 Press q to exit the visualizer.
 
 
@@ -66,12 +73,19 @@ Heap Sort is a comparison-based sorting algorithm that builds a binary heap from
 The visualizer provides the following controls:
 
 0: Generate a new randomized list.
+
 1: Start Selection Sort.
+
 2: Start Insertion Sort.
+
 3: Start Bubble Sort.
+
 4: Start Merge Sort.
+
 5: Start Quick Sort.
+
 6: Start Heap Sort.
+
 q: Exit the visualizer.
 
 Please note that giving repetitive commands may cause latency and unexpected behavior. Wait for the current command's execution to complete before giving a new command.
